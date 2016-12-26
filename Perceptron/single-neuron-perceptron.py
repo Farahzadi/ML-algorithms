@@ -1,4 +1,4 @@
-#!
+#!/Users/Navid/miniconda3/envs/ml-algorithms/bin/python3.5
 import numpy as np
 from colorama import Fore, init
 from matplotlib import pyplot as plt
